@@ -271,7 +271,7 @@ function Portfolio() {
           <img src={phone_logo} alt="Phone Number" className="social-logo" />
         </a>
         <a
-          href="https://github.com/yourprofile"
+          href="https://github.com/Nusrah00"
           title="Github Repo"
           target="_blank"
           rel="noopener noreferrer"
@@ -279,19 +279,19 @@ function Portfolio() {
           <img src={github_logo} alt="Github Repo" className="social-logo" />
         </a>
         <a
-          href="https://www.linkedin.com/in/yourprofile"
+          href="https://www.linkedin.com/in/nasrah-moshood-a8a276179/"
           title="LinkedIn Profile"
           target="_blank"
           rel="noopener noreferrer"
         >
           <img
             src={linkedin_logo}
-            alt="LinkedIn Profile"
+            alt="https://www.linkedin.com/in/nasrah-moshood-a8a276179/"
             className="social-logo"
           />
         </a>
         <a
-          href="https://x.com/yourprofile"
+          href="https://twitter.com/nusrah00"
           title="X Profile"
           target="_blank"
           rel="noopener noreferrer"
